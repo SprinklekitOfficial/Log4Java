@@ -4,8 +4,8 @@
 
 <img src="./app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="150" height="150" alt="MojoLauncher logo">
 
-[![Android CI](https://github.com/MutantBloodcell/Log4Java/workflows/Android%20CI/badge.svg)](https://github.com/MutantBloodcell/Log4Java/actions)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MutantBloodcell/Log4Java)](https://github.com/MutantBloodcell/Log4Java/actions)
+[![Android CI](https://github.com/GhostFoxOfficial/Log4Java/workflows/Android%20CI/badge.svg)](https://github.com/GhostFoxOfficial/Log4Java/actions)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GhostFoxOfficial/Log4Java)](https://github.com/GhostFoxOfficial/Log4Java/actions)
 [![Discord](https://img.shields.io/discord/1365346109131722753.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VHdwQFsaGX)
 
 * Log4Java это лаунчер, основанный на [MojoLauncher](https://github.com/MojoLauncher/MojoLauncher), позволяющий играть в Minecraft: Java Edition на устройствах Android!
@@ -30,9 +30,9 @@
 
 Получить копию Log4Java можно четырьмя способами:
 
-1. Можно скачать готовый билд с раздела [релизов](http://github.com/MutantBloodcell/Log4Java/releases).
+1. Можно скачать готовый билд с раздела [релизов](http://github.com/GhostFoxOfficial/Log4Java/releases).
 
-2. Можно скачать с ранние билды с [Github Actions](http://github.com/MutantBloodcell/Log4Java/actions).
+2. Можно скачать с ранние билды с [Github Actions](http://github.com/GhostFoxOfficial/Log4Java/actions).
 
 4. Можно [собрать](#building) с исходного кода.
 ## Сборка  
@@ -59,7 +59,7 @@
 - Скорее всего есть ещё, поэтому у нас есть баг-трекер ;) 
 
 ## Лицензия
-- Log4Java лицензирован под [GNU LGPLv3](https://github.com/MojoLauncher/MojoLauncher/blob/v3_openjdk/LICENSE).
+- Log4Java лицензирован под [GNU LGPLv3](https://github.com/GhostFoxOfficial/Log4Java/blob/v3_openjdk/LICENSE).
 
 ## Внести свой вклад в проект
 Мы привествуем желающих внести свой вклад в проект! Нам не помешает любая помощь, не только код. Например, вы можете помочь в разработке и формировании вики. Вы так же можете помочь [перевести проект](https://crowdin.com/project/pojavlauncher) на ваш язык!
@@ -68,7 +68,7 @@
 Любые изменения в коде этого репозитория должны быть отправлены в виде pull request-а. Описание должно объяснять что делает код и предоставлять шаги для его запуска.
 
 ## Благодарности & Сторонние компоненты и их лицензии (если таковые имеются)
-- [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher): [GNU LGPLv3 License](https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/LICENSE)
+- [MojoLauncher](https://github.com/MojoLauncher/MojoLauncher): [GNU LGPLv3 License](https://github.com/GhostFoxOfficial/Log4Java/blob/v3_openjdk/LICENSE)
 - [Boardwalk](https://github.com/zhuowei/Boardwalk) (JVM Лаунчер): Неизвестная Лицензия/[Apache License 2.0](https://github.com/zhuowei/Boardwalk/blob/master/LICENSE) или GNU GPLv2.
 - Android Support Libraries: [Apache License 2.0](https://android.googlesource.com/platform/prebuilts/maven_repo/android/+/master/NOTICE.txt).
 - [GL4ES](https://github.com/PojavLauncherTeam/gl4es): [MIT License](https://github.com/ptitSeb/gl4es/blob/master/LICENSE).<br>
